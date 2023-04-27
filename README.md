@@ -1,0 +1,1 @@
+Separate repository of exercises found at The Odin Project, separated to a new repository to avoid fork merge.
